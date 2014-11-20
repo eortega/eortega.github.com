@@ -34,3 +34,6 @@ http://www.tuxradar.com/practicalphp/15/10/4
 
 Segundo caso
 http://stackoverflow.com/questions/3757071/php-debugging-curl
+
+Buena herramienta para probar que protocolos y versiones acepta un dominio (API)
+https://www.ssllabs.com/ssltest/
